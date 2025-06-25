@@ -6,7 +6,7 @@ https://github.com/MrStealYoCurls/Gazebo-PX4-Setup-Guide
 
 ### PX4-AirBoom
 ```bash
-git clone git@github.com:TomerTip/PX4-AirBoom.git -b airboom
+git clone --recurse-submodules git@github.com:TomerTip/PX4-AirBoom.git -b airboom
 git submodule update --recursive
 ```
 

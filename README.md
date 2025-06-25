@@ -12,7 +12,7 @@ git clone --recurse-submodules git@github.com:TomerTip/PX4-AirBoom.git -b airboo
 ## Run
 ```bash
 cd PX4-AirBoom
-make px4_sitl gazebo-classic-iris_airboom__baylands
+make px4_sitl gazebo-classic_iris_airboom__baylands
 ```
 
 ![image](https://github.com/user-attachments/assets/b14db8bf-c7b5-478e-bddb-3dc52518a441)

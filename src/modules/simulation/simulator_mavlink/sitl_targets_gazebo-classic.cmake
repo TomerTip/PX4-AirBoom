@@ -87,6 +87,7 @@ if(gazebo_FOUND)
 		iris_rplidar
 		iris_vision
 		iris_airboom
+		fpv_airboom
 		omnicopter
 		plane
 		plane_cam

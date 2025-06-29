@@ -68,6 +68,7 @@ px4_add_romfs_files(
 	1070_gazebo-classic_boat
 
 	1080_gazebo-classic_iris_airboom
+	1081_gazebo-classic_fpv_airboom
 
 	2507_gazebo-classic_cloudship
 

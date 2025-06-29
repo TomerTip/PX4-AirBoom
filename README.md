@@ -12,6 +12,11 @@ git clone --recurse-submodules git@github.com:TomerTip/PX4-AirBoom.git -b airboo
 ## Run
 ```bash
 cd PX4-AirBoom
+
+# FPV Airboom
+make px4_sitl gazebo-classic_fpv_airboom__baylands
+
+# Iris Airboom
 make px4_sitl gazebo-classic_iris_airboom__baylands
 ```
 
